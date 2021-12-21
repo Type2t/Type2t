@@ -4,7 +4,7 @@ I have been interested in coding for 4 years with various different coding langu
 Here are some Things about me
 
 - 🔭 I’m currently working on Practice Projects
-- 🌱 I’m currently learning Fullstack
+- 🌱 I’m currently learning JavaScript and C++
 - 🤔 Sexuality: Bi :3
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: None
