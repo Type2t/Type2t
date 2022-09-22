@@ -1,6 +1,6 @@
 ### Hello there, My name is Type2t.
 I am a Intermediate Computer Programmer without a degree T~T
-I have been interested in coding for 4 years with various different coding languages.
+I have been interested in coding for 5 years with various different coding languages.
 Here are some Things about me
 
 - 🔭 I’m currently working on Practice Projects
