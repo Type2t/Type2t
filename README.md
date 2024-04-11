@@ -8,3 +8,5 @@ Here are some things about me
 - 🏳️‍🌈 Sexuality: Bi :3
 - 🙇‍♂️ Pronouns: She/They
 - ⚡ Fun fact: Water is not wet
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1DTP55)
