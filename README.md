@@ -4,7 +4,5 @@ My online name is Type2t, I am a current college student studying software devel
 
 - 🔭 I’m currently working on silly projects
 - 🌱 I’m currently learning Advanced C++
-- 🏳️‍🌈 Sexuality: Bi :3
-- 🙇‍♂️ Pronouns: She/They
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1DTP55)
